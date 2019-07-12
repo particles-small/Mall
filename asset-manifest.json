@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Mall/static/css/main.4f113a20.chunk.css",
+    "main.css": "/Mall/static/css/main.d09ffe04.chunk.css",
     "main.js": "/Mall/static/js/main.597440a1.chunk.js",
     "main.js.map": "/Mall/static/js/main.597440a1.chunk.js.map",
     "runtime~main.js": "/Mall/static/js/runtime~main.9797cb3a.js",
@@ -9,10 +9,10 @@
     "static/js/2.6cd716b6.chunk.js": "/Mall/static/js/2.6cd716b6.chunk.js",
     "static/js/2.6cd716b6.chunk.js.map": "/Mall/static/js/2.6cd716b6.chunk.js.map",
     "index.html": "/Mall/index.html",
-    "precache-manifest.363eb1e6d3cd46d13b0ec700e9375d2d.js": "/Mall/precache-manifest.363eb1e6d3cd46d13b0ec700e9375d2d.js",
+    "precache-manifest.65f2361607319bfc8ecfbaf5a00d7907.js": "/Mall/precache-manifest.65f2361607319bfc8ecfbaf5a00d7907.js",
     "service-worker.js": "/Mall/service-worker.js",
     "static/css/2.46439c26.chunk.css.map": "/Mall/static/css/2.46439c26.chunk.css.map",
-    "static/css/main.4f113a20.chunk.css.map": "/Mall/static/css/main.4f113a20.chunk.css.map",
+    "static/css/main.d09ffe04.chunk.css.map": "/Mall/static/css/main.d09ffe04.chunk.css.map",
     "static/media/icon1.png": "/Mall/static/media/icon1.04b867f8.png",
     "static/media/slide1.jpg": "/Mall/static/media/slide1.78e80d98.jpg",
     "static/media/slide2.jpg": "/Mall/static/media/slide2.e568b6f5.jpg",

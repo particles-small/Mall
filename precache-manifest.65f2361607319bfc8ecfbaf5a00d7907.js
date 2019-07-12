@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "df802f0538c5bec42d6680518d1ca681",
+    "revision": "6c7d418a7f0aa9ab3d0d0f7ee2f83c2e",
     "url": "/Mall/index.html"
   },
   {
@@ -8,15 +8,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Mall/static/css/2.46439c26.chunk.css"
   },
   {
-    "revision": "81dab01e4401d1c99f22",
-    "url": "/Mall/static/css/main.4f113a20.chunk.css"
+    "revision": "ba63b1362763b1335cf5",
+    "url": "/Mall/static/css/main.d09ffe04.chunk.css"
   },
   {
     "revision": "149fee1b19ecf00eaa3f",
     "url": "/Mall/static/js/2.6cd716b6.chunk.js"
   },
   {
-    "revision": "81dab01e4401d1c99f22",
+    "revision": "ba63b1362763b1335cf5",
     "url": "/Mall/static/js/main.597440a1.chunk.js"
   },
   {
