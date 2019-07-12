@@ -1,0 +1,30 @@
+.header-nav{
+  display: flex;
+  justify-content: center;
+}
+.header-nav>ul{
+  padding-left: 0;
+  list-style: none;
+  margin-bottom: 10px;
+}
+.header-nav li>a{
+  color: #b4a078 !important;
+}
+.header-nav li{
+  float: left;
+  font-size: 14px;
+  font-weight: 700;
+  padding: 0 26px;
+  cursor: pointer;
+}
+.header-nav li:first-child{
+  padding-left: 0px;
+}
+.header-nav li:last-child{
+  padding-right: 0px;
+}
+.activeNav a{
+  color: #b4a078;
+  border-bottom: 3px solid #b4a078;
+  padding-bottom: 7px;
+}
